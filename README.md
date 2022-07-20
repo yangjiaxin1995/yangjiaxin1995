@@ -4,15 +4,16 @@
 
 - 🎉 目前使用的技术栈 Typescript & React。
 - 🌱 下一步计划学习：
-    - [ ] 基于Node.js的前端基建生态。
-    - [ ] 前端测试TDD。
-- ❤️ 我是网瘾少年，混迹于DNF，LOL，CF中。
+  - [ ] 基于 Node.js 的前端基建生态。
+  - [ ] 前端测试 TDD。
+- ❤️ 我是网瘾少年，混迹于 DNF，LOL，CF 中。
 - 💬 如果想向我询问任何问题，可以点击[这里](https://github.com/yangjiaxin1995/yangjiaxin1995/issues)留言.
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjiaxin1995&layout=compact&theme=react&show_owner=true" />
-</a>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yangjiaxin1995&show_icons=true&theme=react&show_owner=true" />
-</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yangjiaxin1995&theme=react&hide_border=true" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjiaxin1995&show_icons=true&theme=react&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
